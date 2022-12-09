@@ -24,7 +24,7 @@ function App() {
       <motion.div className="progress-bar" style={{ scaleX }} />
       <motion.div className="header" >
         <h1>
-          Hello World! My name is Roshan Sapkota. <br />
+          Hello World! My name is X. <br />
           <code>Artist. Academic. Sports-Fanatic. Aspiring Physician.</code>
         </h1>
       </motion.div>
